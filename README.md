@@ -35,7 +35,7 @@ Project aims to create google landing page.
 
 ## Objective
 
-Build a Landing that is functionally similar to this: [Google Landing Page](https://aaron-clarusway.github.io/google-landing--page/)
+Build a Landing that is functionally similar to this: [Google Landing Page](https://ahmetyags.github.io/Google-Landing-Page/)
 
 ### At the end of the project, following topics are to be covered;
 
